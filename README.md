@@ -1,5 +1,5 @@
 # Pembelian-Tiket-C-++
-## Projek Akademik
+
 ![image](https://github.com/user-attachments/assets/7951a9c4-603b-449d-98c0-85b7660bfeff)
 
 Proyek ini adalah sebuah program sederhana berbasis C++ yang membantu pengguna untuk membeli tiket objek wisata. Pengguna dapat memilih jenis tiket, hari pembelian, dan jumlah tiket yang ingin dibeli. Program kemudian akan menghitung total biaya, termasuk memberikan diskon jika syarat tertentu terpenuhi.
@@ -7,20 +7,20 @@ Proyek ini adalah sebuah program sederhana berbasis C++ yang membantu pengguna u
 ### Fitur
 
 #### Pilihan Jenis Tiket:
-Tiket Reguler.<br>
-Tiket Terusan.
+- Tiket Reguler.<br>
+- Tiket Terusan.
 
 #### Pilihan Jenis Hari:
-Hari Biasa (Weekday).<br>
-Akhir Pekan (Weekend).
+- Hari Biasa (Weekday).<br>
+- Akhir Pekan (Weekend).
 
 #### Penghitungan Total Pembelian:
-Menghitung total harga berdasarkan jenis dan jumlah tiket yang dipilih.<br>
-Memberikan diskon jika pembelian memenuhi syarat tertentu.
+- Menghitung total harga berdasarkan jenis dan jumlah tiket yang dipilih.<br>
+- Memberikan diskon jika pembelian memenuhi syarat tertentu.
 
 #### Antarmuka Pengguna:
-Menampilkan harga tiket sesuai pilihan.<br>
-Menampilkan total pembelian, diskon yang diberikan, dan total pembayaran.
+- Menampilkan harga tiket sesuai pilihan.<br>
+- Menampilkan total pembelian, diskon yang diberikan, dan total pembayaran.
 
 #### Cara Menggunakan
 1. Jalankan Program: Gunakan terminal atau IDE untuk menjalankan program.
